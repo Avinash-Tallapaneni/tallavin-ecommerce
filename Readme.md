@@ -16,7 +16,7 @@ The Tallavin Ecommerce is built using React-JS along with context Api
 
 My name is Avinash Tallapaneni, and I am a front-end web developer based in Chennai, India. I am passionate about coding and building applications that make a difference in people's lives.
 
-- Website - [Preview site on netlify](https://tallavin-ecommerce.vercel.app/)
+- Website - [Preview site on vercel](https://tallavin-ecommerce.vercel.app/)
 - Twitter - [@TallapaneniAvi](https://www.twitter.com/TallapaneniAvi)
 
 ## Got feedback?
